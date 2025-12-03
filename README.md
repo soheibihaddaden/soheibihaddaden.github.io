@@ -7,7 +7,7 @@
 [![npm](https://img.shields.io/badge/npm-9.x-CB3837?logo=npm&logoColor=white)](https://www.npmjs.com/)
 [![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 
-
+---
 Mon Portfolio est une application React/Vite qui présente mon profil, mon expérience et mes projets personnels. Le site prend en charge deux langues (fr/en) et propose un formulaire de contact fonctionnel.
 
 ## Fonctionnalités principales
