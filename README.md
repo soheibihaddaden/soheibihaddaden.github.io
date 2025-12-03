@@ -9,7 +9,7 @@
 
 ---
 Mon Portfolio est une application React/Vite qui présente mon profil, mon expérience et mes projets personnels. Le site prend en charge deux langues (fr/en) et propose un formulaire de contact fonctionnel.
-
+--
 ## Fonctionnalités principales
 
 - Section hero avec statistiques animées et téléchargement direct du CV (`src/CV_IHADDADEN.pdf`).
