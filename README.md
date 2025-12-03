@@ -1,5 +1,13 @@
 # Mon Portfolio
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Node.js](https://img.shields.io/badge/Node.js-18.x-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
+[![React](https://img.shields.io/badge/React-18-61dafb?logo=react&logoColor=white)](https://react.dev/)
+[![Vite](https://img.shields.io/badge/Vite-5-purple?logo=vite&logoColor=white)](https://vitejs.dev/)
+[![npm](https://img.shields.io/badge/npm-9.x-CB3837?logo=npm&logoColor=white)](https://www.npmjs.com/)
+[![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+
+
 Mon Portfolio est une application React/Vite qui présente mon profil, mon expérience et mes projets personnels. Le site prend en charge deux langues (fr/en) et propose un formulaire de contact fonctionnel.
 
 ## Fonctionnalités principales
